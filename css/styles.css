@@ -1189,7 +1189,6 @@ font-size: clamp(2rem, 4vw, 3rem);
   }
   .section_contact{
     width: 100%;
-    background-color: #a3ab30;
   }
   .contact-form .btn {
     width: 100%;
